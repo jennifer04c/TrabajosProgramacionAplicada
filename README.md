@@ -20,6 +20,13 @@ plataforma de hardware libre creada en 2005, basada en una placa con
 un microcontrolador y un entorno de desarrollo, diseñada para facilitar el uso de la
 electrónica en proyectos multidisciplinares.
 
+_Limitaciones_
+
+realizacion | limitacion
+------------ | -------------
+sensores en el exterior  | tienes problemas al contacto con el agua 
+facilita el manejo de la casa  | no es de facil de adquirir 
+
 *enlace*
 
 [Diseño de un sistema de control domótico](https://riunet.upv.es/bitstream/handle/10251/18228/Memoria.pdf)
