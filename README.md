@@ -5,10 +5,10 @@
  tabla de contenido
 1. Introduccion 
 2. Caracteristicas del arduino 
-2.1 Hardware
+  2.1Hardware
 3. Dispositivos acoplables
 4. Prototipo del servidor domotico 
-4.1 Montaje
+  4.1 Montaje
 4.2 Funcionamiento 
 5.Conclusiones 
 ```
@@ -20,8 +20,7 @@ plataforma de hardware libre creada en 2005, basada en una placa con
 un microcontrolador y un entorno de desarrollo, diseñada para facilitar el uso de la
 electrónica en proyectos multidisciplinares.
 
-
-! [Imagen de Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+ [Imagen de Arduino](https://www.pngfind.com/mpng/ihmxbio_arduino-placa-arduino-uno-png-transparent-png/)
 
 _Limitaciones_
 
@@ -34,3 +33,5 @@ facilita el manejo de la casa  | no es de facil de adquirir
 *Procedimiento*
 
 [Diseño de un sistema de control domótico](https://riunet.upv.es/bitstream/handle/10251/18228/Memoria.pdf)
+
+
