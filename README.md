@@ -57,7 +57,7 @@ ventajas | limitaciones
 Tiene un gran ahorro de nergia  | No es economicamente facil de adquirir
 Mayoe seguridad | El costo de manteniemto es alto 
 Mayor comodidad  |  Puede tener fallos en la conexion 
-Puede facilitar algunas tareas del hogar  |  La velocidad de transferencia de dato puede ser baja 
+Puede facilitar algunas tareas del hogar  |  La velocidad de transferencia de dato puede ser baja.
 
 
 
