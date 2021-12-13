@@ -1,0 +1,85 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled17.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMadV33Ik1NUomNtpzvEFRQ",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/jennifer04c/TrabajosProgramacionAplicada/blob/main/reto%20%236\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 2,
+      "metadata": {
+        "id": "CkOutrma45Ws"
+      },
+      "outputs": [],
+      "source": [
+        "#reto#6[Programa realizado sin ver la solucion]\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        ""
+      ],
+      "metadata": {
+        "id": "plj5ImgtoLJN"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import random\n",
+        "x = random.randrange(120)\n",
+        "print('Numero elegido:', x)\n",
+        "if x<10:\n",
+        "  print('El numero escogido  es menor de 10')\n",
+        "elif x<50:\n",
+        "  print('El numero escogido esta entre 10-50')\n",
+        "elif x<100:\n",
+        "  print('El numero escogido esta entre 50-100')\n",
+        "else:\n",
+        "  print('El numero escogido es mayor que 100')"
+      ],
+      "metadata": {
+        "id": "SKup1laVms8e",
+        "outputId": "4248d291-3e1d-4073-d180-5b3fa31aefa3",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Numero elegido: 69\n",
+            "El numero escogido esta entre 50-100\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
